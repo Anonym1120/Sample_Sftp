@@ -1,0 +1,12 @@
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\bin\Debug\ConsoleApp_Sftp_Move.exe.config
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\bin\Debug\ConsoleApp_Sftp_Move.exe
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\bin\Debug\ConsoleApp_Sftp_Move.pdb
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\bin\Debug\ClassLibrary_Sftp_RenciSshNet.dll
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\bin\Debug\Renci.SshNet.dll
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\bin\Debug\ClassLibrary_Sftp_RenciSshNet.pdb
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\bin\Debug\Renci.SshNet.xml
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\obj\Debug\ConsoleApp_Sftp_Move.csproj.CoreCompileInputs.cache
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\obj\Debug\ConsoleApp_Sftp_Move.csproj.CopyComplete
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\obj\Debug\ConsoleApp_Sftp_Move.exe
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\obj\Debug\ConsoleApp_Sftp_Move.pdb
+C:\Users\郭良田\Desktop\Sample_Sftp\ConsoleApp_Sftp_Move\obj\Debug\ConsoleApp_Sftp_Move.csproj.AssemblyReference.cache

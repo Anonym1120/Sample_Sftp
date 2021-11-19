@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample_Sftp", "Sample_Sftp\Sample_Sftp.csproj", "{FC658707-4A30-4925-AABD-F1ECF89AAB5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Sftp_Put", "ConsoleApp_Sftp_Put\ConsoleApp_Sftp_Put.csproj", "{A274822B-A7AB-407B-837E-CB3F78CDBCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Sftp_Get", "ConsoleApp_Sftp_Get\ConsoleApp_Sftp_Get.csproj", "{72F13C1A-A197-481C-9A7C-E43BF3FF8188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Sftp_Delete", "ConsoleApp_Sftp_Delete\ConsoleApp_Sftp_Delete.csproj", "{10C50C48-F97E-40D2-A7E8-1FDE4CB04086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Sftp_Move", "ConsoleApp_Sftp_Move\ConsoleApp_Sftp_Move.csproj", "{39BEF8B5-713B-4703-8820-18397FF75D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_Sftp_RenciSshNet", "ClassLibrary_Sftp_RenciSshNet\ClassLibrary_Sftp_RenciSshNet.csproj", "{3015A135-4083-4792-A0B6-61D36BC8D589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC658707-4A30-4925-AABD-F1ECF89AAB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC658707-4A30-4925-AABD-F1ECF89AAB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC658707-4A30-4925-AABD-F1ECF89AAB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC658707-4A30-4925-AABD-F1ECF89AAB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A274822B-A7AB-407B-837E-CB3F78CDBCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A274822B-A7AB-407B-837E-CB3F78CDBCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A274822B-A7AB-407B-837E-CB3F78CDBCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A274822B-A7AB-407B-837E-CB3F78CDBCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F13C1A-A197-481C-9A7C-E43BF3FF8188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F13C1A-A197-481C-9A7C-E43BF3FF8188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F13C1A-A197-481C-9A7C-E43BF3FF8188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F13C1A-A197-481C-9A7C-E43BF3FF8188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C50C48-F97E-40D2-A7E8-1FDE4CB04086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C50C48-F97E-40D2-A7E8-1FDE4CB04086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C50C48-F97E-40D2-A7E8-1FDE4CB04086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C50C48-F97E-40D2-A7E8-1FDE4CB04086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BEF8B5-713B-4703-8820-18397FF75D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BEF8B5-713B-4703-8820-18397FF75D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BEF8B5-713B-4703-8820-18397FF75D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BEF8B5-713B-4703-8820-18397FF75D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3015A135-4083-4792-A0B6-61D36BC8D589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3015A135-4083-4792-A0B6-61D36BC8D589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3015A135-4083-4792-A0B6-61D36BC8D589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3015A135-4083-4792-A0B6-61D36BC8D589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1776F19A-3284-445C-B4AE-9AD93994BA50}
+	EndGlobalSection
+EndGlobal

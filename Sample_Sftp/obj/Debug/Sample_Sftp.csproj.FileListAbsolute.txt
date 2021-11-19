@@ -1,0 +1,2 @@
+C:\Users\郭良田\Desktop\Sample_Sftp\Sample_Sftp\obj\Debug\Sample_Sftp.csproj.AssemblyReference.cache
+C:\Users\郭良田\Desktop\Sample_Sftp\Sample_Sftp\obj\Debug\Sample_Sftp.csproj.CoreCompileInputs.cache
